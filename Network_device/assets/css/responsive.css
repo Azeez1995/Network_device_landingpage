@@ -1,0 +1,487 @@
+.brand-logo_mweb {
+    display: none;
+}
+
+.network_mweb {
+    display: none;
+}
+
+.High_speed_switching_mweb {
+    display: none;
+}
+
+.add_background-mweb {
+    display: none;
+}
+
+.background_color .call_execuitive-1 {
+    display: none;
+}
+
+
+@media only screen and (max-width: 767px) {
+
+    .container {
+        width: 90%;
+        margin: auto;
+        display: block;
+    }
+
+    .col-md-1,
+    .col-md-2,
+    .col-md-3,
+    .col-md-4,
+    .col-md-5,
+    .col-md-7,
+    .col-md-8,
+    .col-md-9,
+    .col-md-10,
+    .col-md-11,
+    .col-md-12 {
+        width: 100%;
+    }
+
+    .col-md-6 {
+        width: 50%;
+        float: left;
+    }
+
+    .brand-logo {
+        display: none;
+    }
+
+    .brand-logo_mweb {
+        display: block;
+    }
+
+    .network {
+        display: none;
+    }
+
+    .network_mweb {
+        display: block;
+    }
+
+    .slick-dots li {
+        width: 8px !important;
+        height: 8px !important;
+    }
+
+    .logo {
+        max-width: 45%;
+        padding-bottom: 10px;
+    }
+
+    .banner {
+        height: 500px;
+        width: 100%;
+        margin-top: 50px;
+        padding-top: 30px;
+        background-image: url('/assets/image/mweb-network.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .background_color {
+        height: 620px;
+    }
+
+    /* banner ul */
+    .banner ul {
+        float: left;
+        width: 100%;
+    }
+
+    /* network_mweb */
+    .network_mweb {
+        float: left;
+        width: 100%;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    /* High_speed_switching_mweb */
+    .High_speed_switching_mweb {
+        float: left;
+        width: 100%;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+
+    .brand-logo_mweb h1 {
+        margin-top: 240px;
+        text-align: center;
+        font-size: 25px;
+        font-family: "Poppins", sans-serif;
+    }
+
+    .brand-logo_mweb_slider .col-md-12 img {
+        text-align: center;
+        display: inline-block;
+        padding-bottom: 10px;
+    }
+    .banner .col-md-3{
+        position: relative;
+        top: 72%;
+        left: 0px;
+    }
+
+    .form-container {
+        height: 376px;
+        width: 100%;
+        box-shadow: 50px 30px 100px 0 rgba(0, 0, 0, 0.16);
+        background-color: #fff;
+        margin-top: 30px;
+    }
+
+    .banner-content h1 {
+        font-size: 23px;
+    }
+
+    .banner-content h1 br {
+        display: none;
+    }
+
+    .banner-content .tick_img {
+        width: 4%;
+        top: 0px;
+    }
+
+    .banner-content .tick_img img {
+        max-width: 100%;
+        margin-top: 5px;
+    }
+
+    .banner-content .img_tick_content {
+        font-size: 15px;
+        padding-left: 9px;
+        padding-bottom: 10px;
+        width: 95%;
+    }
+
+    /* brand-logo_mweb */
+    .brand-logo_mweb {
+        float: left;
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    /* end of brand-logo_mweb */
+
+    .network_mweb_top_heading {
+        text-align: center;
+        font-size: 18px;
+        font-family: "Poppins", sans-serif;
+    }
+
+    .wireless-network {
+
+        margin-top: 22px;
+    }
+
+    .wireless-network .icon-img img {
+        max-width: 80%;
+    }
+
+    .wireless_network_button a {
+        padding: 6px 45px 6px 45px;
+        font-size: 14px;
+    }
+
+    .wireless-network .icon-img-content h1 {
+        text-align: left;
+        font-size: 15px;
+    }
+
+    .wireless-network .icon-img-content p {
+        font-size: 9px;
+        text-align: left;
+    }
+
+    .High_speed_switching_mweb {
+        display: block;
+    }
+
+
+    .High_speed_switching {
+        display: none;
+    }
+
+    .background_color h1 br {
+        display: none;
+    }
+
+    .background_color h1 {
+
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .form-heading {
+        font-size: 10px;
+    }
+
+    .form-body {
+        height: 35px;
+    }
+
+    .choose-option {
+        height: 35px;
+    }
+
+    .form-button {
+        height: 35px;
+    }
+
+    .form-p-tag {
+        font-size: 8px;
+    }
+
+    .form-container-1 {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+
+    .form-body-2 {
+        width: 80%;
+        height: 40px;
+        margin-bottom: 15px;
+
+    }
+
+    .get_free_consultation {
+        width: 80%;
+        font-size: 15px;
+        height: 40px;
+        margin-bottom: 15px;
+
+    }
+
+    .faq_h1 h1 {
+        font-size: 20px;
+    }
+
+    .accordion_button {
+        font-size: 14px;
+    }
+
+    .panel {
+        font-size: 13px;
+    }
+
+    .panel br {
+        display: none;
+
+    }
+
+    .accordion_button:after {
+        font-size: 11px;
+        width: 15px;
+        height: 15px;
+    }
+
+    .add_background .col-md-4 {
+        width: 100%;
+    }
+
+    .slider .slick-next {
+        display: none !important;
+    }
+
+    .slider .slick-prev {
+        display: none !important;
+    }
+
+    .slider-2 .slick-next {
+        display: none !important;
+    }
+
+    .slider-2 .slick-prev {
+        display: none !important;
+    }
+
+    .slider_background_color .slick-dots {
+        bottom: -16px !important;
+    }
+
+    .slider-2 .Enterprise {
+        padding-top: 68px;
+    }
+
+    .first_slider .slider_container {
+        text-align: center;
+        display: inline-block;
+    }
+
+    .slider_container h1 {
+        font-size: 12px;
+    }
+
+    .slider_container_button button {
+        width: 50%;
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .testimonial_background {
+        padding: 15px;
+        height: 190px;
+    }
+
+    .happy_customers_background h1 {
+        font-size: 20px;
+    }
+
+    .testimonial_content p {
+        font-size: 12px;
+        padding: 0px;
+    }
+
+    .testimonial_content p br {
+        display: none;
+    }
+
+    .customer_name {
+        left: 20px;
+        top: 12px;
+    }
+
+    .testimonial_img img {
+        width: 40px;
+        top: 8px;
+        left: 10px;
+    }
+
+    .customer_name-1 {
+        left: 53px;
+        top: -10px;
+
+    }
+
+    .testimonial_img-1 img {
+        width: 40px;
+        top: 26px;
+        left: 0px;
+    }
+
+    .customer_name p {
+        font-size: 12px;
+    }
+
+    .customer_name img {
+        width: 65px;
+    }
+
+    .customer_name-1 img {
+        width: 65px;
+    }
+
+    .customer_name-1 p {
+        font-size: 12px
+    }
+
+    .We_are_happy {
+        width: 100%;
+        text-align: left;
+        font-size: 15px;
+    }
+
+    .footer {
+        padding: 10px;
+    }
+
+    .call_mail .tj_footer {
+        width: 45%;
+        float: left;
+        font-size: 9px;
+        padding-left: 0px;
+        padding-top: 5px;
+    }
+
+    .call_mail .tj_footer-1 {
+        width: 55%;
+        float: left;
+        font-size: 9px;
+        padding-top: 2px;
+    }
+
+    .call_mail .tj_footer img {
+        width: 12px;
+        padding-right: 2px;
+    }
+
+    .call_mail .tj_footer-1 img {
+        width: 12px;
+        padding-right: 2px;
+    }
+
+    .call_mail a {
+        font-size: 12px;
+    }
+
+    .add_background {
+        display: none;
+    }
+
+    .add_background-mweb {
+        display: block;
+    }
+
+    .add_background-mweb {
+        padding: 20px 0 20px;
+        width: 100%;
+        float: left;
+        background-color: navy;
+    }
+
+    .add_img_content img {
+        width: 40px;
+        margin-bottom: 12px;
+        left: 0px;
+    }
+
+    .add_img_content p {
+        font-size: 11px;
+        top: 8px;
+    }
+
+    .slider_background_color {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .slick-dots {
+        bottom: 6px !important;
+    }
+
+    .happy_customers_background .slick-dots {
+        bottom: -10px !important;
+    }
+
+    .background_color .call_execuitive {
+        display: none;
+    }
+
+    .background_color .call_execuitive-1 {
+        display: block;
+        position: relative;
+        bottom: 40px;
+        text-align: center;
+    }
+
+    .background_color .call_execuitive-1 img {
+        width: 250px;
+        margin-bottom: -41px;
+    }
+
+    .banner_form_tj_policy p {
+        padding-left: 40px;
+        padding-right: 40px;
+        margin-top: -16px;
+        text-align: left;
+        font-size: 8px;
+    }
+}
