@@ -1,2 +1,2 @@
 # Network_device_landingpage
-[Page_link](https://network-devices.netlify.app/)
+[Network device Landing page](https://network-devices.netlify.app/)
